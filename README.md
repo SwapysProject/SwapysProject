@@ -10,7 +10,7 @@ A mathematician who loves to code, build, solve problems and many more!
         def introduce(self):
             print(f"👋 {self.bio}\n\"{self.vision}\"")
 
-Mathematician().introduce()
+    Mathematician().introduce()
 
 
 ## 🌐 Socials:
