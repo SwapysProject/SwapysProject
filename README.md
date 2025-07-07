@@ -7,10 +7,10 @@ A mathematician who loves to code, build, solve problems and many more!
     class Mathematician:
         def __init__(self):
             self.bio = "Mathematician who loves coding, building, and solving problems."
-            self.motto = "Curiosity is my compass; innovation is my destination."
+            self.vision = "If Why is clear, then How becomes is easy"
     
         def introduce(self):
-            print(f"👋 {self.bio}\n\"{self.motto}\"")
+            print(f"👋 {self.bio}\n\"{self.vision}\"")
 
 Mathematician().introduce()
 
