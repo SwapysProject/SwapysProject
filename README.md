@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SwapysProject&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=SwapysProject&repo=SwapysProject&label=Profile%20Views&countColor=%237B1E7A" alt="Profile Views" />
 </p>
-
 
 <p align="center">
   A mathematician who loves to code, build, solve problems and many more!
