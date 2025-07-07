@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SwapysProject&label=Profile%20Visits&color=0&icon=0&pretty=false" alt="Total Profile Visits" />
+  <img src="https://visitcount.itsvg.in/api?id=SwapysProject&label=Profile%20Visits&color=0&icon=0" alt="Total Profile Visits" />
 </p>
+
 
 <p align="center">
   A mathematician who loves to code, build, solve problems and many more!
