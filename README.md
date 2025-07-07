@@ -4,13 +4,13 @@ A mathematician who loves to code, build, solve problems and many more!
 
 # Hi, I'm Swapnil Sutar!
 
-class Mathematician:
-    def __init__(self):
-        self.bio = "Mathematician who loves coding, building, and solving problems."
-        self.motto = "Curiosity is my compass; innovation is my destination."
-
-    def introduce(self):
-        print(f"👋 {self.bio}\n\"{self.motto}\"")
+    class Mathematician:
+        def __init__(self):
+            self.bio = "Mathematician who loves coding, building, and solving problems."
+            self.motto = "Curiosity is my compass; innovation is my destination."
+    
+        def introduce(self):
+            print(f"👋 {self.bio}\n\"{self.motto}\"")
 
 Mathematician().introduce()
 
