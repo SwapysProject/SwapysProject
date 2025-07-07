@@ -78,10 +78,6 @@ A mathematician who loves to code, build, solve problems and many more!
 
 ![](https://github-profile-trophy.vercel.app/?username=SwapysProject&theme=midnight-purple&no-frame=false&no-bg=false&margin-w=4)
 
-## ✨ My Quote
-
-> "Creativity is the bridge between knowledge and possibility. Build boldly, and let your ideas shape the future."
-
 ## 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=SwapysProject&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
