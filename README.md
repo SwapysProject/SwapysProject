@@ -1,16 +1,16 @@
 <h1 align="center">👋 Hi, I'm Swapnil Sutar!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=500&color=F7F7F7&center=true&vCenter=true&width=500&lines=Frontend+Developer;Backend+Developer;Mathematician" alt="Rotating Text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=200&color=F7F7F7&center=true&vCenter=true&width=500&lines=Frontend+Developer;Backend+Developer;Mathematician" alt="Rotating Text" />
 </p>
+
 
 <p align="center">
   A mathematician who loves to code, build, solve problems and many more!
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/swapnil-sutar-48502b261/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swapnilsutar1618@gmail.com) 
 </p>
 
 <p align="center">
