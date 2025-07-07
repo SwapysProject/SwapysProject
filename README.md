@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=SwapysProject&repo=SwapysProject&label=Profile%20Views&countColor=%237B1E7A" alt="Profile Views" />
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=SwapysProject&repo=SwapysProject&label=Profile%20Views&countColor=%016369" alt="Profile Views" />
 </p>
 
 <p align="center">
