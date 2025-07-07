@@ -4,6 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=100&color=F7F7F7&center=true&vCenter=true&width=500&lines=Mathematician;Frontend+Developer;Backend+Developer;Data+Scientist;DevOps+Enthusiast;Data+Analyst" alt="Rotating Text" />
 </p>
 
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=SwapysProject&label=Profile%20Visits&color=0&icon=0&pretty=false" alt="Total Profile Visits" />
+</p>
 
 <p align="center">
   A mathematician who loves to code, build, solve problems and many more!
