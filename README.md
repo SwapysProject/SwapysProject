@@ -21,7 +21,7 @@ class Mathematician:
             "knowledge sharer"
         ]
         self.motto = "Curiosity is my compass; innovation is my destination."
-    
+
     def introduce(self):
         print(f"👋 Hi, I'm {self.name}!")
         print(f"A {self.profession.lower()} who loves to {', '.join(self.interests)}.")
@@ -31,6 +31,7 @@ class Mathematician:
 
 swapnil = Mathematician("Swapnil Sutar")
 swapnil.introduce()
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/swapnil-sutar-48502b261/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swapnilsutar1618@gmail.com) 
