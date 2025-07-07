@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Swapnil Sutar!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=200&color=F7F7F7&center=true&vCenter=true&width=500&lines=Frontend+Developer;Backend+Developer;Mathematician" alt="Rotating Text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=100&color=F7F7F7&center=true&vCenter=true&width=500&lines=Mathematician;Frontend+Developer;Backend+Developer;Data+Scientist;DevOps+Enthusiast;Data+Analyst" alt="Rotating Text" />
 </p>
 
 
