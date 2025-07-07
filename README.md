@@ -5,10 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SwapysProject">
-    <img src="https://visitcount.itsvg.in/api?id=SwapysProject&label=Profile%20Visits&color=0&icon=0" alt="Total Profile Visits" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=SwapysProject&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
 
 <p align="center">
   A mathematician who loves to code, build, solve problems and many more!
