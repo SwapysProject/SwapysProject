@@ -1,36 +1,18 @@
 # 👋 Hi, I'm Swapnil Sutar!
 
 A mathematician who loves to code, build, solve problems and many more!
+
 # Hi, I'm Swapnil Sutar!
 
 class Mathematician:
-    def __init__(self, name):
-        self.name = name
-        self.profession = "Mathematician"
-        self.interests = [
-            "coding",
-            "building",
-            "problem solving",
-            "exploring new ideas"
-        ]
-        self.traits = [
-            "bridging logic and creativity",
-            "turning abstract concepts into real-world solutions",
-            "lifelong learner",
-            "open-source contributor",
-            "knowledge sharer"
-        ]
+    def __init__(self):
+        self.bio = "Mathematician who loves coding, building, and solving problems."
         self.motto = "Curiosity is my compass; innovation is my destination."
 
     def introduce(self):
-        print(f"👋 Hi, I'm {self.name}!")
-        print(f"A {self.profession.lower()} who loves to {', '.join(self.interests)}.")
-        print("Passionate about bridging the gap between logic and creativity, I enjoy turning abstract concepts into real-world solutions.")
-        print("When I’m not delving into mathematics or programming, you’ll find me learning something new, collaborating on open-source, or sharing knowledge with others.")
-        print(f'\n"{self.motto}"')
+        print(f"👋 {self.bio}\n\"{self.motto}\"")
 
-swapnil = Mathematician("Swapnil Sutar")
-swapnil.introduce()
+Mathematician().introduce()
 
 
 ## 🌐 Socials:
