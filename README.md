@@ -1,6 +1,6 @@
-# 👋 Hi, I'm SwapysProject!
+# 👋 Hi, I'm Swapnil Sutar!
 
-<!-- You can add a brief introduction about yourself here -->
+A mathematician who loves to code, build, solve problems and many more!
 
 ## 💻 Tech Stack
 
