@@ -8,7 +8,7 @@ A mathematician who loves to code, build, solve problems and many more!
             self.vision = "If Why is clear, then How becomes is easy"
     
         def introduce(self):
-            print(f"👋 {self.bio}\n\"{self.vision}\"")
+            print(f"{self.bio}\n\"{self.vision}\"")
 
     Mathematician().introduce()
 
