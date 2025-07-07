@@ -2,8 +2,6 @@
 
 A mathematician who loves to code, build, solve problems and many more!
 
-# Hi, I'm Swapnil Sutar!
-
     class Mathematician:
         def __init__(self):
             self.bio = "Mathematician who loves coding, building, and solving problems."
