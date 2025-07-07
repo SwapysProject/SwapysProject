@@ -1,5 +1,10 @@
 # 👋 Hi, I'm Swapnil Sutar!
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Frontend+Developer;Backend+Developer;Mathematician" alt="Rotating Text" />
+</p>
+
+
 A mathematician who loves to code, build, solve problems and many more!
 
     class Mathematician:
