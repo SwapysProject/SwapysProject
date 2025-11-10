@@ -61,6 +61,18 @@ Mathematician().introduce()
 </p>
 
 <p align="center">
+<b>GenAI:</b><br>
+<img src="https://img.shields.io/badge/LLM-%2300A67E.svg?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-%2300B96F.svg?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinecone-%23008080.svg?style=for-the-badge&logo=pinecone&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-%23512DA8.svg?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS%20Bedrock-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-%2300A67E.svg?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
+
+
+<p align="center">
 <b>Frontend:</b><br>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -91,7 +103,6 @@ Mathematician().introduce()
 <p align="center">
 <b>Other Tools:</b><br>
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
